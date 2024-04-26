@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.sc.bse3211.meetingplanner.CalendarTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.054 s - in edu.sc.bse3211.meetingplanner.CalendarTest
